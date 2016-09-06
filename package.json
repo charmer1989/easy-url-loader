@@ -1,0 +1,23 @@
+{
+  "name": "easy-url-loader",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mime": "^1.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nehcnah/easy-url-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nehcnah/easy-url-loader/issues"
+  },
+  "homepage": "https://github.com/nehcnah/easy-url-loader#readme"
+}
